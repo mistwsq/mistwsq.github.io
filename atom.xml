@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mistWSQ&#39;s zone</title>
+  
+  
+  <link href="https://mistwsq.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://mistwsq.xyz/"/>
+  <updated>2021-08-05T09:14:14.908Z</updated>
+  <id>https://mistwsq.xyz/</id>
+  
+  <author>
+    <name>mistWSQ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WOS</title>
+    <link href="https://mistwsq.xyz/2021-08-04-wos.html"/>
+    <id>https://mistwsq.xyz/2021-08-04-wos.html</id>
+    <published>2021-08-04T01:32:58.000Z</published>
+    <updated>2021-08-05T09:14:14.908Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="WOS-9正式推出，欢迎尝鲜使用"><a href="#WOS-9正式推出，欢迎尝鲜使用" class="headerlink" title="WOS 9正式推出，欢迎尝鲜使用"></a>WOS 9正式推出，欢迎尝鲜使用</h4><h4 id="WOS-9-轻新知意-灵感在握"><a href="#WOS-9-轻新知意-灵感在握" class="headerlink" title="WOS 9 轻新知意 灵感在握"></a>WOS 9 轻新知意 灵感在握</h4><p>WOS是mistWSQ基于WPSv11.1.0.10700-release开发的跨设备，面向未来的操作系统。详情请前往<a href="https://wos.mistwsq.xyz/">WOS官网</a>。</p><h4 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h4><p>蓝奏云：<a href="https://mistwsq.lanzoui.com/iS1PTs91j2j">https://mistwsq.lanzoui.com/iS1PTs91j2j</a> 密码:mist</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;WOS-9正式推出，欢迎尝鲜使用&quot;&gt;&lt;a href=&quot;#WOS-9正式推出，欢迎尝鲜使用&quot; class=&quot;headerlink&quot; title=&quot;WOS 9正式推出，欢迎尝鲜使用&quot;&gt;&lt;/a&gt;WOS 9正式推出，欢迎尝鲜使用&lt;/h4&gt;&lt;h4 id=&quot;WOS-9-轻新知</summary>
+      
+    
+    
+    
+    
+    <category term="WOS" scheme="https://mistwsq.xyz/tags/WOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://mistwsq.xyz/2021-07-31-hello-world.html"/>
+    <id>https://mistwsq.xyz/2021-07-31-hello-world.html</id>
+    <published>2021-07-31T10:20:20.209Z</published>
+    <updated>2021-08-03T04:06:38.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h4 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h4><h5 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h5><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h5 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h5><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h5 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h5><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h5 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h5><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
